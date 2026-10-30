@@ -6,14 +6,14 @@ Aplicativo mobile para organizar trabalhos, entregas e prazos da faculdade. O pr
 
 ## Requisitos funcionais
 
-- ** Cadastrar atividade:** permitir informar título, disciplina, descrição e prazo de entrega.
-- ** Validar dados:** exigir o preenchimento dos campos e aceitar apenas datas válidas no formato `DD/MM/AAAA`.
-- ** Consultar atividades:** exibir as atividades cadastradas, ordenadas pelo prazo.
-- ** Filtrar atividades:** permitir visualizar todas, apenas as pendentes ou apenas as concluídas.
-- ** Alterar situação:** permitir marcar uma atividade como concluída ou pendente.
-- ** Editar atividade:** permitir alterar os dados de uma atividade já cadastrada.
-- ** Excluir atividade:** permitir excluir uma atividade após confirmação.
-- ** Salvar dados:** manter atividades e alterações armazenadas no aparelho, inclusive após fechar e abrir o app novamente.
+- **Cadastrar atividade:** permitir informar título, disciplina, descrição e prazo de entrega.
+- **Validar dados:** exigir o preenchimento dos campos e aceitar apenas datas válidas no formato `DD/MM/AAAA`.
+- **Consultar atividades:** exibir as atividades cadastradas, ordenadas pelo prazo.
+- **Filtrar atividades:** permitir visualizar todas, apenas as pendentes ou apenas as concluídas.
+- **Alterar situação:** permitir marcar uma atividade como concluída ou pendente.
+- **Editar atividade:** permitir alterar os dados de uma atividade já cadastrada.
+- **Excluir atividade:** permitir excluir uma atividade após confirmação.
+- **Salvar dados:** manter atividades e alterações armazenadas no aparelho, inclusive após fechar e abrir o app novamente.
 
 ## Tecnologias
 
