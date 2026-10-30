@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Campus Conectado",
+    "slug": "campus-conectado",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.campusconectado.mobile"
+    },
+    "ios": {
+      "bundleIdentifier": "com.campusconectado.mobile"
+    }
+  }
+}
