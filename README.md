@@ -2,7 +2,7 @@
 
 ## Documentação técnica
 
-Aplicativo mobile para organizar trabalhos, entregas e prazos da faculdade. O projeto usa React Native com Expo SDK 54 e salva as informações localmente no aparelho.
+Aplicativo mobile para organizar trabalhos, entregas e prazos da faculdade. O projeto usa React Native com Expo SDK 54 e salva as informações localmente no aparelho. Para armazenamento, utiliza AsyncStorage.
 
 ## Requisitos funcionais
 
